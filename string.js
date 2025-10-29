@@ -9,4 +9,3 @@ console.log("we can declare the text in JS with double quotation");
 console.log('we can declare the text in JS with single quoation as well'); 
 
 // adding the semi colon at the end of the code is good practice
-
