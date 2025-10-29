@@ -21,7 +21,7 @@ console.log('\t the text stored in the same variable is number2');
 // the if we store number instead of the text, then that is called constant, and constent has another key word for it, and constent should be given a name as well, similar to variable but it only deals with numbers
 
 const age= 10; 
-console.log('the const cannot be change once it is declared and it should be given name as well')
+console.log('the const cannot be change once it is declared and it should be given name as well, for exmaple age=10');
 console.log(age);
 
 
